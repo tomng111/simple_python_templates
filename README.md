@@ -1,6 +1,5 @@
-# Simple Python Templates
-M.Sc. Minh-Hoang Ngo, Hochschule Karlsruhe, DE.<br /><br />
-Here I upload some simple templates for the Python courses that I taught since 2018.<br />
-These templates are used to build the complete projects according to the Lab-Handbooks and Theoretical-Books.<br />
-Hope you could find them interesting. Have a nice day!<br />
-## Branches<br />
+# Python Simple Interface
+Arduino MEGA 2560<br />
+## Essential Commands<br />
+### serial.py
+- tk.Button(bg = `'<Your_Color>'`, text = `"<Your_Command>"`, width = `<Your_Width>`, command = `<Your_Function>`)
